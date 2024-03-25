@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Roboto-Thin.ttf';
+    src: url('Roboto-Thin.ttf');
+}
+.btnn1{
+    color: white;
+}
+.container-fluid{
+    margin-top: -200px;
+    margin-left: 200px;
+}
+.first{
+    font-family: 'Roboto-Thin.ttf';
+    font-size: 65px;
+    font-weight: bold;
+}
+.first1{
+    font-size: 35px;
+}
+
+
